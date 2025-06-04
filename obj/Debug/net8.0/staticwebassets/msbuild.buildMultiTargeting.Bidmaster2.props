@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bidmaster2.props" />
+</Project>
